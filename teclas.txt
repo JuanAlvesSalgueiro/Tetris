@@ -1,0 +1,7 @@
+Up = ROTAR
+Left = IZQUIERDA
+Right = DERECHA
+Down = DESCENDER
+g = GUARDAR
+c = CARGAR
+Escape = SALIR
